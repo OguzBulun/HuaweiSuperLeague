@@ -1,5 +1,5 @@
 package com.example.sportotosuperlig;
-
+nurrayy
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
 
