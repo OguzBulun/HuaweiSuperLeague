@@ -6,7 +6,7 @@ SPLASH SCREEN
 
 <img width="221" alt="2021-03-17_13h18_39" src="https://user-images.githubusercontent.com/80334174/111452201-55eafa00-8723-11eb-8bbb-ce916e8b9356.png">
 
-FİKSTÜR
+LİG SIRALAMASI
 
 <img width="221" alt="2021-03-17_13h18_39" src="https://user-images.githubusercontent.com/80334174/111452090-30f68700-8723-11eb-83e6-01cce09b4b63.png">
 
